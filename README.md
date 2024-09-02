@@ -7,7 +7,7 @@
 $$ m\frac{d^2s}{dt^2}=-m\frac{g_0}{\left(1+\frac{s}{R_\oplus}\right)^2} - \frac{1}{2}\frac{p_0\mu}{R\left(T_0-\theta s\right)}\exp\left(-\frac{\mu g_0s}{R\left(T_0-\theta s\right)\left(1+\frac{s}{R_\oplus}\right)^2}\right)C_dA\left(\frac{ds}{dt}\right)^2+u\frac{dm}{dt} $$
 
 где
-$m=m(t)=m_0-\beta t$ — масса тела переменной массы;\n
+$m=m(t)=m_0-\beta t$ — масса тела переменной массы;`\n`
 $\beta$ — расходы массы в единицу времени;\n
 $u$ — скорость истечения газа (скорость отделяющихся частей);\n
 $v=v(t)$ — скорость (функция от времени) тела переменной массы;\n
