@@ -6,6 +6,8 @@
 
 $$ m\frac{d^2s}{dt^2}=-m\frac{g_0}{\left(1+\frac{s}{R_\oplus}\right)^2} - \frac{1}{2}\frac{p_0\mu}{R\left(T_0-\theta s\right)}\exp\left(-\frac{\mu g_0s}{R\left(T_0-\theta s\right)\left(1+\frac{s}{R_\oplus}\right)^2}\right)C_dA\left(\frac{ds}{dt}\right)^2+u\frac{dm}{dt} $$
 
+$$ m\ddot{\vec{s}}=\vec{F}_{\text{ext}}-\dot{m}\vec{v}_{\text{rel}} $$
+
 где
 $m=m(t)=m_0-\beta t$ — масса тела переменной массы \[кг\];  
 $\beta$ — расходы массы в единицу времени \[кг/с\];  
@@ -25,5 +27,4 @@ $A$ — площадь поперечного сечения этой повер
 
 # Замечания
 Замечание 1. Уравнение выводилось на основе [уравнения Мещерского (Википедия)](https://ru.wikipedia.org/wiki/Уравнение_Мещерского)  
-$m\ddot{\vec{s}}=\vec{F}_{\text{ext}}-\dot{m}\vec{v}_{\text{rel}}$
 
