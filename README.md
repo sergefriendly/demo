@@ -29,7 +29,8 @@ $A$ — площадь поперечного сечения этой повер
 ## Замечания
 **Замечание 1**. Уравнение выводилось на основе [уравнения Мещерского (Википедия)](https://ru.wikipedia.org/wiki/Уравнение_Мещерского)  
 
-![Распределение сил, действующих на тело переменной массы](https://github.com/sergefriendly/demo/raw/main/forces_2024-09-03_18-45-54.jpg)
+<!-- ![Распределение сил, действующих на тело переменной массы](https://github.com/sergefriendly/demo/raw/main/forces_2024-09-03_18-45-54.jpg) -->
+<p align="center"><img src="https://github.com/sergefriendly/demo/raw/main/forces_2024-09-03_18-45-54.jpg" alt="Распределение сил, действующих на тело переменной массы"></p>
 
 ```math
 m(t)\frac{d^2\vec{s}}{dt^2}=\vec{F}_{\text{внеш}}-\vec{u}\frac{dm}{dt},
